@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "57590377938",
+    "project_id": "chatapp-6c3c7",
+    "storage_bucket": "chatapp-6c3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57590377938:android:17f4d0f2d2542ddee7ec0b",
+        "android_client_info": {
+          "package_name": "com.example.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57590377938-7bjumbbqcjfq46gfa2d2ap55gt8u9b10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uchat",
+            "certificate_hash": "a75d8d23edb551a7906d7524632dcd331920f980"
+          }
+        },
+        {
+          "client_id": "57590377938-mrit82i5fmnsh50832ttehaci9qq4ooo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADa8OCVQNV1v_XnWCQfFmkJjhkNXD_sXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57590377938-mrit82i5fmnsh50832ttehaci9qq4ooo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57590377938-m8f0pf0406u2r1kpi0bmockg5p53nabe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
